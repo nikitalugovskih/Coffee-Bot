@@ -655,7 +655,7 @@ async def run_match_task(context: CallbackContext):
 async def main():
     global user_data, cycle_users, feedback_data, not_cycle_users
 
-    application = ApplicationBuilder().token("7197628643:AAHqgdZSURQGrkAB6E22MP-cSjgKiFe0xrM").build()
+    application = ApplicationBuilder().token("TOKER").build() # from BotFather
     job_queue = application.job_queue
 
     user_data = load_data('user_data.json', {})
