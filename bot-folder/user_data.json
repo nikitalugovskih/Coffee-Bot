@@ -1,38 +1,3 @@
+# This is where users go after their first registration
 {
-    "8c470723-aa44-4777-8576-2cf14667b66f": {
-        "id": 918094104,
-        "name": "Nikita",
-        "email": "nikita@lej.me",
-        "position": "PM"
-    },
-    "963f5ed2-cfd9-46c7-ae13-ec99740b6c4a": {
-        "id": 346725912,
-        "name": "Сергей Каменецкий",
-        "email": "sergey.k@lej.me",
-        "position": "Тим Лид"
-    },
-    "f6d35f22-e6bb-49f5-8048-7993972d430a": {
-        "id": 647850100,
-        "name": "DashaDasha",
-        "email": "daria.d@lej.me",
-        "position": "продежкт"
-    },
-    "2cbf7189-2761-44f5-b7d9-0c0f7d45c99b": {
-        "id": 883077194,
-        "name": "Дарья Шкуц",
-        "email": "daria@lej.me",
-        "position": "Эйчарка"
-    },
-    "ea33f5ae-5d76-4f3a-aed4-c07306d62aa0": {
-        "id": 211150181,
-        "name": "Алёна Деревянко",
-        "email": "elenaderevenko@gmail.com",
-        "position": "Менеджер"
-    },
-    "f1208c8e-c985-4f48-8518-0dce8eec3850": {
-        "id": 883239210,
-        "name": "Кирюха Абобов",
-        "email": "shapka_mohnatka@isq.rf",
-        "position": "ГЕНЕРАЛ"
-    }
 }
